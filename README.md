@@ -6,15 +6,15 @@ Projects
 
 1. Titanic Survival Prediction
 
-Built a machine learning model to predict whether a passenger survived the Titanic disaster using passenger information such as age, gender, ticket class, and fare.
+    Built a machine learning model to predict whether a passenger survived the Titanic disaster using passenger information such as age, gender, ticket class, and fare.
 
 2. Movie Rating Prediction
 
-Developed a machine learning model to predict movie ratings using features such as genre, director, actors, year, duration, and votes.
+   Developed a machine learning model to predict movie ratings using features such as genre, director, actors, year, duration, and votes.
 
 3. Iris Flower Classification
 
-Created a classification model to identify Iris flower species based on sepal and petal measurements.
+   Created a classification model to identify Iris flower species based on sepal and petal measurements.
 
 Tools and Libraries
 
